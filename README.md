@@ -4,12 +4,8 @@
 
 <br />
 
-Hello I am Niko Molecule, I am Junior UI / UX, Web Developer, Currently I am learning Javascript, C++
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/NikoMolecule/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 ask me about anything, i am happy to help;
+Hello I am Niko Molecule, I am Junior UI / UX, Web Developer, Currently I am learning Javascript, C++;
+Ask me anything :);
 
 **languages:**  
 
