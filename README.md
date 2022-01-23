@@ -4,8 +4,8 @@
 
 <br />
 
-Hello I am Niko Molecule, I am Junior UI / UX, Web Developer, Currently I am learning Javascript, C++;
-Ask me anything :);
+Hello I am Niko Molecule, I am Junior UI / UX Designer and Junior Front-end Developer. You can ask me anything.
+Nowdays I am learning Javascript, C++;
 
 **Languages:**  
 
