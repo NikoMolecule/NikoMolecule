@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp;I’m currently working on something cool
 - 🌱 &nbsp;I’m currently learning Javascript, C++
-- 💬 &nbsp;Ask me about anything related to Javascript
+- 💬 &nbsp;Ask me about anything related to Javascript/CSS
 
 <br />
 
