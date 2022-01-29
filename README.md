@@ -2,6 +2,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NikoMolecule.NikoMolecule)
 
+- 🔭 &nbsp;I’m currently working on something cool
+- 🌱 &nbsp;I’m currently learning Javascript, C++
+- 💬 &nbsp;Ask me about anything related to Javascript
+
 <br />
 
 Hello I am Niko Molecule, I am Junior UI / UX Designer and Junior Front-end Developer. You can ask me anything.
