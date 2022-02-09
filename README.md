@@ -23,4 +23,5 @@ Nowdays I am learning Javascript, C++;
 
 📈 My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NikoMolecule&show_icons=true&theme=gotham" alt="NikoMolecule" />
+<img src="https://github-readme-stats.vercel.app/api?username=NikoMolecule&show_icons=true&theme=gotham" alt="NikoMolecule" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoMolecule&layout=compact&theme=gotham">
