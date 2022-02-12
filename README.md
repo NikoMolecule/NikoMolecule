@@ -2,12 +2,12 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NikoMolecule.NikoMolecule)
 
-- * 🌱 I Currently work on ToDo List app.
-- * 📖 Currently Learning  Javascript and C++.
-- * 👀 Last project I made is game of Rock Paper Scissors 
-- * 🔨 Looking for colaborate on Javascript Projects
-- * 💼 You can contact me via discord
-- * 💀 Fun fact: Did you know that Gas Giant Planets don't have solid ground?
+-  🌱 I Currently work on ToDo List app.
+-  📖 Currently Learning  Javascript and C++.
+-  👀 Last project I made is game of Rock Paper Scissors 
+-  🔨 Looking for colaborate on Javascript Projects
+-  💼 You can contact me via discord
+-  💀 Fun fact: Did you know that Gas Giant Planets don't have solid ground?
 
 <br />
 
