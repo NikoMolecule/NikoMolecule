@@ -2,24 +2,19 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NikoMolecule.NikoMolecule)
 
--  🌱 I Currently work on ToDo List app.
--  👀 Last project I made is game of Rock Paper Scissors 
+-  🌱 I Currently work on Simple Trigonometric Functions Library.
+-  👀 Last project I made is ROT13 Cipher
 -  🔨 Looking for colaborate on Javascript Projects
 -  💼 You can contact me via discord
 -  💀 Fun fact: Did you know that Gas Giant Planets don't have solid ground?
 
 <br />
 
-Hello I am Niko Molecule, I am Junior UI / UX Designer and Junior Front-end Developer. You can ask me anything.
-Nowdays I am learning Javascript, C++;
+Hello I am Niko Molecule, I am Front-end Developer and UX Designer. I am 13 Years old
 
-**Languages:**  
+**Things I know:**  
 
-<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src = "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-
-**Frameworks:**
-
-<img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src = "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"><img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 
 
