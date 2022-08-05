@@ -10,7 +10,7 @@
 
 <br />
 
-Hello I am Niko Molecule, I am Front-end Developer and UX Designer. I am 13 Years old
+Hello I am Niko Molecule, I am competitive programmer and random guy who loves math. I am 13 Years old
 
 **Things I know:**  
 
