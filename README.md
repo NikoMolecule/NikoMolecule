@@ -2,9 +2,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NikoMolecule.NikoMolecule)
 
--  🌱 I Currently work on Simple Trigonometric Functions Library.
--  👀 Last project I made is ROT13 Cipher
--  🔨 Looking for colaborate on Javascript Projects
+-  🌱 I Currently work on Voronoi Diagram.
+-  👀 Last project I made is Picture Generation with Pi.
+-  🔨 Looking for colaborate on C++ projects.
 -  💼 You can contact me via discord
 -  💀 Fun fact: Did you know that Gas Giant Planets don't have solid ground?
 
